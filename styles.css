@@ -1,0 +1,14 @@
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+}
+
+.image {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 100%;
+}
+
+.image img {
+    position: absolute;
+}
